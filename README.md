@@ -14,7 +14,7 @@ A Imersão Dados da Alura é para quem quer acelerar os conhecimentos em Ciênci
 
 ## 💻 Ferramentas
 
-As análises são desenvolvidas na linguagem Python com o auxílio de suas bibliotecas, no Google Colaboratory, conforme sugerido na #imersaodados.
+As análises são desenvolvidas na linguagem Python com o auxílio de suas bibliotecas, no Google Colaboratory, conforme sugerido na Imersão.
 
 ---
 
